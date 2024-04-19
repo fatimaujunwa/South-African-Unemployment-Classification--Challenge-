@@ -61,3 +61,83 @@ Follow the steps in the Jupyter notebooks to reproduce the model training and ev
 ## Acknowledgments
 Data provided by Predictive Insights.
 The algorithm used, LGBM, demonstrated an accuracy of 97.3% on the validation set.
+
+
+
+
+Here is the structured CV format with comprehensive details including your contact information, employment history, projects, skills, and education:
+
+---
+
+### Contact Information
+- **Name:** [Your Full Name]
+- **Address:** [Your Address]
+- **Phone:** [Your Phone Number]
+- **Email:** [Your Email Address]
+- **LinkedIn:** [LinkedIn Profile URL]
+- **GitHub:** [GitHub Profile URL]
+
+### Employment History
+
+#### Mobile App Developer
+- **Company:** Surethrift Technologies LLC
+- **Duration:** [Start Date] - Present
+- **Responsibilities:**
+  - Revitalized and published the 'Surethrift' mobile app for Cooperative Societies, boosting user engagement by 90% and reducing app crashes by 88%.
+  - Enhanced user interface in collaboration with the design team, increasing user satisfaction by 98%.
+  - Supported administrative and financial activities automation through the app, increasing efficiency and transparency in cooperative society management.
+
+#### Data Analyst
+- **Company:** HealthCorp Inc.
+- **Duration:** [Start Date] - [End Date]
+- **Responsibilities:**
+  - Developed and optimized predictive models using logistic regression and random forest in Python to estimate patient medication continuation, improving model accuracy by 30%.
+  - Resolved data inconsistencies within healthcare datasets, enhancing data quality and integrity which led to a 30% improvement in model accuracy and patient satisfaction.
+  - Collaborated with healthcare stakeholders to translate data insights into actionable improvements in patient care, achieving 20% higher patient satisfaction and 15% improved medication adherence.
+  - Utilized Power BI to present complex analytical results to interdisciplinary teams, supporting informed decision-making and enhancing team collaboration.
+
+### Projects
+
+#### South African Youth Employment Prediction Challenge
+- **Duration:** [Start Date] - [End Date]
+- **Tools Used:** Python, LGBM, Power BI
+- **Repository:** [GitHub Repository](https://github.com/yourusername/south-africa-youth-employment.git)
+- **Overview:** Developed a predictive model to forecast employment trends among South African youth, using survey data over four rounds to identify key employment predictors.
+- **Achievements:**
+  - Managed and enhanced data quality using Python, significantly improving prediction accuracy.
+  - Designed features to predict employment status, contributing to a model validation accuracy of 97.3%.
+
+#### WiDS Datathon 2024 - 1st Place Solution
+- **Duration:** [Start Date] - [End Date]
+- **Tools Used:** Python, Tableau, CatBoost, XGBoost
+- **Repository:** [Kaggle Repository](https://www.kaggle.com/code/ujunwafatima/wids-2024-2nd-place)
+- **Overview:** Secured first place by developing a predictive model for early detection of metastatic cancer.
+- **Achievements:**
+  - Optimized feature selection and data preprocessing using Python.
+  - Implemented an ensemble strategy supported by cross-validation, achieving a CV score of 0.8025.
+
+#### Comprehensive Data Analysis of Football Games
+- **Repository:** [GitHub Project](https://github.com/fatimaujunwa/fatimaujunwa.github.io)
+- **Description:** Conducted statistical analysis on football game data from the 2000s to derive insights into team performance, player statistics, and game trends.
+  - Developed interactive dashboards in Tableau to highlight key trends and patterns, integrating these insights into Power BI for enhanced visualization and stakeholder reporting.
+
+### Skills
+
+**Technical Skills:**
+- **Programming Languages:** Proficient in Python and SQL.
+- **Data Analysis:** Experienced in data cleaning, preprocessing, and predictive modeling.
+- **Cloud Computing:** Practical experience with AWS, Azure, and Google Cloud.
+- **Business Intelligence Tools:** Advanced skills in Power BI and Tableau for creating and managing dashboards.
+
+**Soft Skills:**
+- **Problem Solving:** Strong analytical skills applied in scientific problem-solving contexts.
+- **Communication:** Effective communicator with a proven ability to explain complex data to diverse audiences.
+- **Adaptability:** Proven ability to adapt to new technologies and project shifts.
+- **Leadership and Determination:** Demonstrated leadership in project settings; highly determined to achieve and exceed goals.
+
+### Educational Qualification
+- **Degree:** Bachelor of Science in Data Science, 2.1 Honors
+- **Institution:** [Name of University]
+- **Year of Graduation:** [Year]
+
+This CV format provides a detailed yet concise overview that aligns with job-seeking best practices, emphasizing key achievements and skills relevant to potential employers in your field.
